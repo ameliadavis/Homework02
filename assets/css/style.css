@@ -1,4 +1,5 @@
-.card-text {
-color: aqua;
-position: relative;
-} 
+.bg-info {
+position: absolute;
+right: -30px;
+z-index: 2;
+}
