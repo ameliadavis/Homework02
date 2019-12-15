@@ -2,7 +2,7 @@
     background-color: #5bc0de;
 } */
 
-    @media screen and (max-width: 991px;) {
+    @media screen and (max-width: 991px) {
        .mobile {width: 275px; float: left;}
        .mobile2 {width: 275px}
     }
