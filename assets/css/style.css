@@ -14,4 +14,23 @@
      css goes here
  }
 
- /* also okay to make sticky footer work here 
+ /* also okay to make sticky footer work here */
+ /* .body {
+    min-height: calc(90vh - 100px);
+ } */
+
+footer {
+        /* position: relative;
+        width: 100vw;
+        left: calc(-50vw + 50%);} */
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        padding: 0 0 20px 0;
+        background-color:#343a40;
+        color: white;
+        text-align: center;
+ }
+
+ 
