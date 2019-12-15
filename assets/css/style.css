@@ -33,4 +33,13 @@ footer {
         text-align: center;
  }
 
- 
+ body {
+    /* margin: 20px; */
+    background-image:url("../images/spiration-light.png");
+ }
+.navbar {
+    border-bottom: lightgrey solid 1px;
+}
+ /* .content {
+     background-color: fuchsia;
+ } */
