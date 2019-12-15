@@ -1,3 +1,17 @@
 /* .card {
     background-color: #5bc0de;
 } */
+
+    @media screen and (max-width: 991px;) {
+       .mobile {width: 275px; float: left;}
+       .mobile2 {width: 275px}
+    }
+ /*.col-sm {
+     mediaquery
+ }
+
+ /* make a new class for each image to apply the media query to.  @media only sceeen and (max-width: 991px) {
+     css goes here
+ }
+
+ /* also okay to make sticky footer work here 
